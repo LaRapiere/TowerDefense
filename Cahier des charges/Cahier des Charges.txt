@@ -1,0 +1,17 @@
+Le travail de Julien
+-Banana pour plus de fric
+-upgrade avec choix
+-next wave
+-bonne cadence de tire
+-spawn de mec sur le chemin (spike)
+  ex: un hero
+-bonne musique en boucle
+-programation de la strategie de la tourelle
+-endless mode a la fin d un niveau
+-une seul map, pas de niveaux
+-branche de skill?
+-boss
+
+Inspiration:
+-btd
+-jeu du cochon (design)

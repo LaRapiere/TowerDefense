@@ -1,4 +1,5 @@
 Le travail de Julien
+idee:
 -Banana pour plus de fric
 -upgrade avec choix
 -next wave
@@ -12,6 +13,15 @@ Le travail de Julien
 -branche de skill?
 -boss
 
+FAUT AVOIR
+
+Slow:
+DPS:
+Splash:
+
+T1
+tourelle(range, power, fireRate, effect)
+
 Inspiration:
--btd
--jeu du cochon (design)
+-<btd>
+-<jeu du cochon> (design)
